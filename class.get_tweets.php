@@ -120,11 +120,7 @@ echo '</div>
 <footer class = "footer">
 <div class = "container">
 <p>Site by <a href = "http://www.stephenbreighner.com/">Steve B</a></p>
-<<<<<<< HEAD
 <p>Check out the project at <a href ="https://github.com/sb5/twittr_mems">github</a></p>
-=======
-<p>Check out the project at <a href ="https://github.com/sb5/twitter_mems">github</a></p>
->>>>>>> ffeeeb97ec3e500e4efcf6a09fe9cfeb24a0abd4
 <p>*max limit of 3,200 tweets I\'m afraid</p></div>
 </footer>';}
 
